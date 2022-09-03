@@ -1,2 +1,2 @@
 0 string SCHOOL school data
-rm school
+-C -m school
